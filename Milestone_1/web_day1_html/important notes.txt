@@ -1,0 +1,100 @@
+container tag : <ul>,<ol>,<div>
+To copy complete link : ctrl + L
+Home work: * How can i use anchor tag to reach another website.
+           * How to go into my created files like, 1. list.html 2. myfile.html : shudhu href="er moddhe file name ta dilei hbe"
+           * How to download pic/pdf/doc file using <a href="" download> tag.
+Void Tag : <img>,<br>,<input>
+Self-Closing Tag : <img/>
+To add website icon in browser tab : Use <link rel="shortcut icon" href="images/home_icon.png" type="image/x-icon">
+<footer> thakbe <body> tag er moddhe
+
+*Block-level Elements :
+                A block-level element always starts on a new line, and the browsers automatically add some space (a margin) before and after the element.
+
+                A block-level element always takes up the full width available (stretches out to the left and right as far as it can).
+
+                Two commonly used block elements are: <p> and <div>.
+
+                The <p> element defines a paragraph in an HTML document.
+
+                The <div> element defines a division or a section in an HTML document.
+
+                The <p> element is a block-level element.
+
+                The <div> element is a block-level element.
+                Example
+                <p>Hello World</p>
+                <div>Hello World</div>
+                Here are the block-level elements in HTML:
+
+                <address><article><aside><blockquote><canvas><dd><div><dl><dt><fieldset><figcaption><figure><footer><form><h1>-<h6><header><hr><li><main><nav><noscript><ol><p><pre><section><table><tf                      oot><ul><video>
+
+*Inline Elements : 
+                An inline element does not start on a new line.
+
+                An inline element only takes up as much width as necessary.
+
+                This is a <span> element inside a paragraph.
+
+                Example
+                <span>Hello World</span>
+                Here are the inline elements in HTML:
+
+                <a><abbr><acronym><b><bdo><big><br><button><cite><code><dfn><em><i><img><input><kbd><label><map><object><output><q><samp><script><select><small><span><strong><sub><sup><textarea>
+
+* ordered list type
+Sets the numbering type:
+
+                a for lowercase letters
+                A for uppercase letters
+                i for lowercase Roman numerals
+                I for uppercase Roman numerals
+                1 for numbers (default)
+The specified type is used for the entire list unless a different type attribute is used on an enclosed <li> element.
+example: 
+                <p>Finishing places of contestants not in the winners' circle:</p>
+
+                <ol start="4">
+                <li>Speedwalk Stu</li>
+                <li>Saunterin' Sam</li>
+                <li>Slowpoke Rodriguez</li>
+                </ol>
+
+
+* Unordered HTML List - Choose List Item Marker
+The CSS list-style-type property is used to define the style of the list item marker. It can have one of the following values:
+
+                Value	Description
+                disc	Sets the list item marker to a bullet (default)
+                circle	Sets the list item marker to a circle
+                square	Sets the list item marker to a square
+                none	The list items will not be marked
+example: 
+    <ul style="list-style-type:disc/circle/square/none;">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+        <li>React</li>
+    </ul>
+web_day1_html_task: * Imagine you want to create your first travel blog where you will share your recent travel adventures with your readers .
+                                                            Now, let's get creative
+                    Practice Task 1: i. create a basic HTML page structure with the doctype, html, head, meta, title, and body tags
+                                     ii. The title will be "My Travel Blog"
+                                     iii. And comments to the code to explain each section. For example, "this is the head section"
+
+                    Practice Task 2: i. Create a heading tag that will have the text "My Travel Blog"
+                                     ii. Format the text in your heading tag using italic
+                    
+                    Practice Task 3: i. Create a div and inside the div create a paragraph. Write about your experience
+                                     ii. Add a button having the text "Read More"
+                    
+                    Practice Task 4: i. Create a span tag which will be outside the div. It will have the text "What I bought"
+                                     ii. Format the text in your span tag using bold
+                                     iii. Create an ordered list of things you bought from the place you visited
+                                     iv. Create another span tag with the text "My favourite food" and make it boldv. Create an Unordered list of your favourite food you ate in that place
+
+                    Practice Task 5: i. Insert an image of your favourite food using the img tag and add the src, alt, width, and height attributes to it.
+                    
+                    Practice Task 6: i. Create a link to your favourite song you listened to while traveling using the anchor tag and add the href and target attributes to it.Copy the url link from youtube.
+
+                    use line breaks <br> where necessary

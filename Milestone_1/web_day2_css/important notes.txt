@@ -1,0 +1,37 @@
+*margin: ekta value er jonno 4 side e margin porbe
+*margin: 2ta value er jonno like 20px(Top & Bottom = TB) 50px(Right & Left = RL) side e margin porbe
+*margin: 3ta value er jonno like 20px(Top) 30px(RL) 50px(Bottom) side e margin porbe
+*margin: 4ta value er jonno 10px(T) 20px(R) 30(B) 50px(L) side e margin porbe
+
+
+
+*padding: ekta value er jonno 4 side e padding porbe
+*padding: 2ta value er jonno like 20px(Top & Bottom = TB) 50px(Right & Left = RL) side e padding porbe
+*padding: 3ta value er jonno like 20px(Top) 30px(RL) 50px(Bottom) side e padding porbe
+*padding: 4ta value er jonno 10px(T) 20px(R) 30(B) 50px(L) side e padding porbe
+
+id vs class in css:     id                                                  class
+            i. Each element can have only one id        i. We can use the same class name on multiple Elements
+            ii. an id selector is name preceded by      ii. a class selector is a name preceded by a "."
+            a "#". 
+
+
+practice task : web_day2_css : 
+
+                Practice_1: i. create an HTML document with three paragraphs
+                            ii. Apply CSS styles to each paragraph using inline,internal and external styles
+
+                Practice_2: i. Design a webpage with a heading, paragraphs, and a list
+                            ii. Apply CSS styles to change the text color, alignment, font size, font-family, and font-style for different elements.
+                
+                Practice_3: i. Create an HTML document with various elements, including headings, paragraphs and divs.
+                            ii. Use different CSS selector (id, class, universal, tag) to apply unique styles to specific elements.
+
+                Practice_4: i. Design a webpage with multiple sections/divs
+                            ii. Apply CSS styles to set different background colors, images, repeats, positions, size for each section
+
+                Practice_5: i. Create a webpage with various elements, such as divs, paragraphs and images
+                            ii. Apply CSS styles to add borders with different width, colors, border-radius, and box-shadow effects to the elements
+
+                Practice_6: i. Build a webpage with different Elements such as image, headings, paragraphs, buttons
+                            ii. Apply CSS styles to set the display property to none, hidden, inline, block and inline-block for specific elements
